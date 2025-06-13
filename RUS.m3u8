@@ -191,15 +191,14 @@ http://cdn.admuspeh.my/8654/video.m3u8?token=c5gxB6MyLHhGfq7n
 http://cdn.admuspeh.my/8330/video.m3u8?token=c5gxB6MyLHhGfq7n
 
 
-
+#EXTINF:-1 tvg-id="1082" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_interny.png" catchup-days="0", Kernel TV Интерны HD
+http://cdn.admuspeh.my/9061/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-id="663" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-marvel.png" catchup-days="0", CineMan Marvel FHD
 http://cdn.admuspeh.my/8951/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-id="985" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8628/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="3", MiniMax Ситком HD
 http://cdn.admuspeh.my/8628/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-id="1008" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%202.0%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8623/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="3", MiniMax Ситком 2.0 HD
 http://cdn.admuspeh.my/8623/video.m3u8?token=c5gxB6MyLHhGfq7n
-#EXTINF:-1 tvg-id="1082" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_interny.png" catchup-days="0", Kernel TV Интерны HD
-http://cdn.admuspeh.my/9061/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-id="1076" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_geroy.png" catchup-days="0", Kernel TV Герой HD
 http://cdn.admuspeh.my/9055/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-id="577" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8710/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="1", MiniMax Супергерои
