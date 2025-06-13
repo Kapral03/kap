@@ -200,8 +200,8 @@ http://cdn.admuspeh.my/8628/video.m3u8?token=c5gxB6MyLHhGfq7n
 http://cdn.admuspeh.my/8623/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 tvg-id="1082" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_interny.png" catchup-days="0", Kernel TV Интерны HD
 http://cdn.admuspeh.my/9061/video.m3u8?token=c5gxB6MyLHhGfq7n
-
-
+#EXTINF:-1 tvg-id="1076" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_geroy.png" catchup-days="0", Kernel TV Герой HD
+http://cdn.admuspeh.my/9055/video.m3u8?token=c5gxB6MyLHhGfq7n
 
 
 
