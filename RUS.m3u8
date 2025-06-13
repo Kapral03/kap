@@ -7,12 +7,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Первый канал (+9)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 HD (+5) (Улан-Удэ)
+#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 HD (+5) 
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_UUDE.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+6)
+1#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://cdn.admuspeh.my/8300/video.m3u8?token=c5gxB6MyLHhGfq7n
+1http://cdn.admuspeh.my/8300/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
