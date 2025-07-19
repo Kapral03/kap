@@ -147,6 +147,8 @@ http://cdn.admuspeh.my/8391/video.m3u8?token=c5gxB6MyLHhGfq7n
 http://cdn.admuspeh.my/8285/video.m3u8?token=c5gxB6MyLHhGfq7n
 #EXTINF:-1 group-title="Военные 🇷🇺" ,Арсенал HD
 http://cdn.admuspeh.my/9220/video.m3u8?token=c5gxB6MyLHhGfq7n
+#EXTINF:-1 tvg-id="191" group-title="Военные 🇷🇺"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8206/video-${start}-${duration}.m3u8?token=h1Rsy29PjoGsdVJf" timeshift="14", Оружие
+http://cdn.admuspeh.my/8206/video.m3u8?token=h1Rsy29PjoGsdVJf
 ﻿
 ﻿
 #EXTINF:-1 group-title="Рыбалка и охота 🇷🇺", Рыболов
