@@ -49,10 +49,10 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_ULAN/variant.m3u8
 #EXTINF:-1 group-title="Улан-Удэ" tvg-id="mir-pl4",МИР (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_MIR_ULAN/variant.m3u8
-#EXTINF:-1 group-title="Улан-Удэ" tvg-id="tnt-pl4",ТНТ (Улан-Удэ)
+#EXTINF:-1 group-title="Улан-Удэ BURAT" tvg-id="tnt-pl4",ТНТ (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_TNT/variant.m3u8
-#EXTINF:-1 group-title="Улан-Удэ", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,ТНТ (+4)
+#EXTINF:-1 group-title="Улан-Удэ BURAT", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,ТНТ (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_TNT_BURAT/variant.m3u8
 #EXTINF:-1 group-title="Улан-Удэ" tvg-id="muztv-pl4",МУЗ-ТВ (Республика Бурятия)
@@ -324,6 +324,7 @@ http://cdn.admuspeh.my/8190/video.m3u8?token=1evh3T5Vk9LUoqyT
 http://cdn.admuspeh.my/8679/video.m3u8?token=1evh3T5Vk9LUoqyT
 ﻿
 ﻿
+
 
 
 
