@@ -1,12 +1,66 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my,http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://stb.shara-tv.org/epg/epgtv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 ﻿
 
-#EXTINF:-1 group-title="Улан-Удэ BUR RU" tvg-id="pervy-pl5",Первый (Улан-Удэ)
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="pervy-pl5",Первый (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_1TV_ULAN/variant.m3u8
-#EXTINF:-1 group-title="Улан-Удэ bur ru" tvg-id="rossia1-pl5",Россия 1 
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="pervy-pl5",Первый (Республика Бурятия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_1TV_BURAT/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="rossia1-pl5",Россия 1 (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="rossia1-pl5",Россия 1 (Республика Бурятия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_BURAT/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="ntv-pl4",НТВ (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_NTV_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="match-tv",Матч ТВ (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_MATCH_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="5kanal-ru-pl4",Пятый (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_5TV_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="rossia-24",Россия 24 (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="tvcentr-pl4",ТВ Центр (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_TVC_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="rentv-pl4",РЕН ТВ (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="sts-pl4",СТС (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_STS_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="domashny-pl4",Домашний (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="tv3-ru-pl4",ТВ-3 (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TV3_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="piatnica-pl4",Пятница! (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="zvezda-pl4",Звезда (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="mir-pl4",МИР (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_MIR_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="tnt-pl4",ТНТ (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_TNT/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="tnt-pl4",ТНТ (Республика Бурятия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_TNT_BURAT/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="muztv-pl4",МУЗ-ТВ (Республика Бурятия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV_BURAT/variant.m3u8
+#EXTINF:-1 group-title="Улан-Удэ" tvg-id="arig-us-24",Ариг Ус (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 
 
 
@@ -270,6 +324,7 @@ http://cdn.admuspeh.my/8190/video.m3u8?token=1evh3T5Vk9LUoqyT
 http://cdn.admuspeh.my/8679/video.m3u8?token=1evh3T5Vk9LUoqyT
 ﻿
 ﻿
+
 
 
 
