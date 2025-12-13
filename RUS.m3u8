@@ -257,6 +257,8 @@ http://cdn.admuspeh.my/8330/video.m3u8?token=1evh3T5Vk9LUoqyT
 
 #EXTINF:-1 tvg-id="1082" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_interny.png" catchup-days="0", Kernel TV Интерны HD
 http://cdn.admuspeh.my/9061/video.m3u8?token=1evh3T5Vk9LUoqyT
+#EXTINF:-1 tvg-id="viju TV1000 HD" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20TV1000%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8048/video-${start}-${duration}.m3u8?token=1evh3T5Vk9LUoqyT" timeshift="7", viju TV1000 HD
+http://cdn.admuspeh.my/8048/video.m3u8?token=1evh3T5Vk9LUoqyT
 #EXTINF:-1 tvg-id="663" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-marvel.png" catchup-days="0", CineMan Marvel FHD
 http://cdn.admuspeh.my/8951/video.m3u8?token=1evh3T5Vk9LUoqyT
 #EXTINF:-1 tvg-id="985" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8628/video-${start}-${duration}.m3u8?token=c5gxB6MyLHhGfq7n" timeshift="3", MiniMax Ситком HD
@@ -324,6 +326,7 @@ http://cdn.admuspeh.my/8190/video.m3u8?token=1evh3T5Vk9LUoqyT
 http://cdn.admuspeh.my/8679/video.m3u8?token=1evh3T5Vk9LUoqyT
 ﻿
 ﻿
+
 
 
 
