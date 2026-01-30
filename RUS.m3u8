@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://epg.admuspeh.my,http://epg.it999.ru/edem.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://stb.shara-tv.org/epg/epgtv.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
-﻿
+#EXTM3U url-tvg="http://ru.epg.one/epg2.xml.gz"﻿
 
 #EXTINF:-1 group-title="Улан-Удэ" tvg-id="pervy-pl5",Первый (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -195,17 +194,21 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 ﻿
 
 #EXTINF:-1 group-title="Военные 🇷🇺" ,Звезда Плюс
-http://cdn.admuspeh.my/8403/video.m3u8?token=1evh3T5Vk9LUoqyT
+http://allway.space/iptv/users/Kapral03rus/158.m3u8
+#EXTINF:-1 group-title="Военные 🇷🇺" ,Звезда Плюс HD
+http://allway.space/iptv/users/Kapral03rus/58.m3u8
 #EXTINF:-1 group-title="Военные 🇷🇺" ,День Победы HD
-http://cdn.admuspeh.my/9221/video.m3u8?token=1evh3T5Vk9LUoqyT
+http://allway.space/iptv/users/Kapral03rus/437.m3u8
 #EXTINF:-1 group-title="Военные 🇷🇺" ,Победа
-http://cdn.admuspeh.my/8391/video.m3u8?token=1evh3T5Vk9LUoqyT
+http://allway.space/iptv/users/Kapral03rus/439.m3u8
+#EXTINF:-1 group-title="Военные 🇷🇺" ,Победа HD
+http://allway.space/iptv/users/Kapral03rus/438.m3u8
 #EXTINF:-1 group-title="Военные 🇷🇺" ,Патриот
 http://cdn.admuspeh.my/8285/video.m3u8?token=1evh3T5Vk9LUoqyT
 #EXTINF:-1 group-title="Военные 🇷🇺" ,Арсенал HD
-http://cdn.admuspeh.my/9220/video.m3u8?token=1evh3T5Vk9LUoqyT
+http://allway.space/iptv/users/Kapral03rus/1937.m3u8
 #EXTINF:-1 tvg-id="191" group-title="Военные 🇷🇺"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8206/video-${start}-${duration}.m3u8?token=h1Rsy29PjoGsdVJf" timeshift="14", Оружие
-http://cdn.admuspeh.my/8206/video.m3u8?token=1evh3T5Vk9LUoqyT
+http://allway.space/iptv/users/Kapral03rus/1802.m3u8
 ﻿
 ﻿
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo"https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Рыбалка и охота 🇷🇺",Рыболов
@@ -1732,6 +1735,7 @@ http://cdn.admuspeh.my/8190/video.m3u8?token=1evh3T5Vk9LUoqyT
 http://cdn.admuspeh.my/8679/video.m3u8?token=1evh3T5Vk9LUoqyT
 ﻿
 ﻿
+
 
 
 
