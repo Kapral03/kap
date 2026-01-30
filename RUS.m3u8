@@ -193,19 +193,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 
 ﻿
 
-#EXTINF:-1 group-title="Военные 🇷🇺" ,Звезда Плюс
+#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="4661" tvg-logo="http://epg.one/img/4661.png" tvg-rec="7" ,Звезда Плюс
 http://allway.space/iptv/users/Kapral03rus/158.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" ,Звезда Плюс HD
+#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="6669" tvg-logo="http://epg.one/img/6669.png" tvg-rec="0" ,Звезда Плюс HD
 http://allway.space/iptv/users/Kapral03rus/58.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" ,День Победы HD
+#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="2773" tvg-logo="http://epg.one/img/2773.png" tvg-rec="3" ,День Победы HD
 http://allway.space/iptv/users/Kapral03rus/437.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" ,Победа
+#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="7" ,Победа
 http://allway.space/iptv/users/Kapral03rus/439.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" ,Победа HD
+#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="3" ,Победа HD
 http://allway.space/iptv/users/Kapral03rus/438.m3u8
 #EXTINF:-1 group-title="Военные 🇷🇺" ,Патриот
-http://cdn.admuspeh.my/8285/video.m3u8?token=1evh3T5Vk9LUoqyT
-#EXTINF:-1 group-title="Военные 🇷🇺" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8206/video-${start}-${duration}.m3u8?token=h1Rsy29PjoGsdVJf" timeshift="14" ,Арсенал HD
+
+#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="2768" tvg-logo="http://epg.one/img/2768.png" tvg-rec="3" ,Арсенал HD
 http://allway.space/iptv/users/Kapral03rus/1937.m3u8
 #EXTINF:-1 tvg-id="191" group-title="Военные 🇷🇺" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8206/video-${start}-${duration}.m3u8?token=h1Rsy29PjoGsdVJf" timeshift="14", Оружие
 http://allway.space/iptv/users/Kapral03rus/1802.m3u8
@@ -1735,6 +1735,7 @@ http://cdn.admuspeh.my/8190/video.m3u8?token=1evh3T5Vk9LUoqyT
 http://cdn.admuspeh.my/8679/video.m3u8?token=1evh3T5Vk9LUoqyT
 ﻿
 ﻿
+
 
 
 
