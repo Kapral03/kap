@@ -213,6 +213,8 @@ http://allway.space/iptv/users/Kapral03rus/1802.m3u8
 ﻿
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo"https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Рыбалка и охота 🇷🇺",Рыболов
 
+#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="6124" tvg-logo="http://epg.one/img/6124.png" tvg-rec="0",VF Рыбалка
+http://allway.space/iptv/users/Kapral03rus/1882.m3u8
 #EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2627" tvg-logo="http://epg.one/img/2627.png" tvg-rec="3" ,Диалоги о Рыбалке
 http://allway.space/iptv/users/Kapral03rus/1765.m3u8
 #EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2419" tvg-logo="http://epg.one/img/2419.png" tvg-rec="7" ,Охота и Рыбалка
@@ -226,10 +228,49 @@ http://allway.space/iptv/users/Kapral03rus/1790.m3u8
 #EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2483" tvg-logo="http://epg.one/img/2483.png" tvg-rec="7" ,Дикая охота HD
 http://allway.space/iptv/users/Kapral03rus/1763.m3u8
 
+#EXTINF:0 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.one/img/2008.png" tvg-rec="0",Авто 24 HD
+http://allway.space/iptv/users/Kapral03rus/1683.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2444" tvg-logo="http://epg.one/img/2444.png" tvg-rec="0",Мужской HD
+http://allway.space/iptv/users/Kapral03rus/1685.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="723" tvg-logo="http://epg.one/img/723.png" tvg-rec="3",Наука HD orig
+http://allway.space/iptv/users/Kapral03rus/1847.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2762" tvg-logo="http://epg.one/img/2762.png" tvg-rec="3",Т24 orig
+http://allway.space/iptv/users/Kapral03rus/1701.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2451" tvg-logo="http://epg.one/img/2451.png" tvg-rec="3",Вопросы и ответы orig
+http://allway.space/iptv/users/Kapral03rus/1705.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.one/img/2008.png" tvg-rec="3",Авто 24 orig
+http://allway.space/iptv/users/Kapral03rus/1714.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="3",Galaxy orig
+http://allway.space/iptv/users/Kapral03rus/1719.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png" tvg-rec="3",Nat Geo Wild FHD
+http://allway.space/iptv/users/Kapral03rus/1747.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png" tvg-rec="7",Nat Geo Wild
+http://allway.space/iptv/users/Kapral03rus/1748.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="153" tvg-logo="http://epg.one/img/153.png" tvg-rec="7",Авто Плюс
+http://allway.space/iptv/users/Kapral03rus/1768.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="723" tvg-logo="http://epg.one/img/723.png" tvg-rec="3",Наука HD
+http://allway.space/iptv/users/Kapral03rus/1777.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="3",Galaxy HD
+http://allway.space/iptv/users/Kapral03rus/1778.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="1676" tvg-logo="http://epg.one/img/1676.png" tvg-rec="7",E TV
+http://allway.space/iptv/users/Kapral03rus/1782.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="7",Galaxy
+http://allway.space/iptv/users/Kapral03rus/1793.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2762" tvg-logo="http://epg.one/img/2762.png" tvg-rec="3",Т24
+http://allway.space/iptv/users/Kapral03rus/1817.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6410" tvg-logo="http://epg.one/img/6410.png" tvg-rec="0",MM Микромир HD
+http://allway.space/iptv/users/Kapral03rus/1885.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6411" tvg-logo="http://epg.one/img/6411.png" tvg-rec="0",MM Макромир HD
+http://allway.space/iptv/users/Kapral03rus/1886.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6412" tvg-logo="http://epg.one/img/6412.png" tvg-rec="0",MM Мегамир HD
+http://allway.space/iptv/users/Kapral03rus/1887.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="1700" tvg-logo="http://epg.one/img/1700.png" tvg-rec="7",КВН ТВ
+http://allway.space/iptv/users/Kapral03rus/85.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="7664" tvg-logo="http://epg.one/img/7664.png" tvg-rec="0",VF КВН
+http://allway.space/iptv/users/Kapral03rus/1926.m3u8
 
 
 
-﻿
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://cdn.admuspeh.my/8079/video.m3u8?token=1evh3T5Vk9LUoqyT
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
@@ -1735,6 +1776,7 @@ http://cdn.admuspeh.my/8190/video.m3u8?token=1evh3T5Vk9LUoqyT
 http://cdn.admuspeh.my/8679/video.m3u8?token=1evh3T5Vk9LUoqyT
 ﻿
 ﻿
+
 
 
 
