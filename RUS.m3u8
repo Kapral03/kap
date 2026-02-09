@@ -228,20 +228,13 @@ http://allway.tv/iptv/users/Kapral03rus/1790.m3u8
 #EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2483" tvg-logo="http://epg.one/img/2483.png" tvg-rec="7" ,Дикая охота HD
 http://allway.tv/iptv/users/Kapral03rus/1763.m3u8
 
+
+#EXTINF:0 group-title="Познавательные" tvg-id="2451" tvg-logo="http://epg.one/img/2451.png" tvg-rec="7",Вопросы и ответы
+http://allway.tv/iptv/users/Kapral03rus/1822.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.one/img/2008.png" tvg-rec="0",Авто 24 HD
 http://allway.tv/iptv/users/Kapral03rus/1683.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2444" tvg-logo="http://epg.one/img/2444.png" tvg-rec="0",Мужской HD
 http://allway.tv/iptv/users/Kapral03rus/1685.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="723" tvg-logo="http://epg.one/img/723.png" tvg-rec="3",Наука HD orig
-http://allway.tv/iptv/users/Kapral03rus/1847.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2762" tvg-logo="http://epg.one/img/2762.png" tvg-rec="3",Т24 orig
-http://allway.tv/iptv/users/Kapral03rus/1701.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2451" tvg-logo="http://epg.one/img/2451.png" tvg-rec="3",Вопросы и ответы orig
-http://allway.tv/iptv/users/Kapral03rus/1705.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.one/img/2008.png" tvg-rec="3",Авто 24 orig
-http://allway.tv/iptv/users/Kapral03rus/1714.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="3",Galaxy orig
-http://allway.tv/iptv/users/Kapral03rus/1719.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png" tvg-rec="3",Nat Geo Wild FHD
 http://allway.tv/iptv/users/Kapral03rus/1747.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png" tvg-rec="7",Nat Geo Wild
@@ -252,8 +245,6 @@ http://allway.tv/iptv/users/Kapral03rus/1768.m3u8
 http://allway.tv/iptv/users/Kapral03rus/1777.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="3",Galaxy HD
 http://allway.tv/iptv/users/Kapral03rus/1778.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="1676" tvg-logo="http://epg.one/img/1676.png" tvg-rec="7",E TV
-http://allway.tv/iptv/users/Kapral03rus/1782.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="7",Galaxy
 http://allway.tv/iptv/users/Kapral03rus/1793.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2762" tvg-logo="http://epg.one/img/2762.png" tvg-rec="3",Т24
@@ -268,9 +259,12 @@ http://allway.tv/iptv/users/Kapral03rus/1887.m3u8
 http://allway.tv/iptv/users/Kapral03rus/85.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="7664" tvg-logo="http://epg.one/img/7664.png" tvg-rec="0",VF КВН
 http://allway.tv/iptv/users/Kapral03rus/1926.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="1676" tvg-logo="http://epg.one/img/1676.png" tvg-rec="7",E TV
+http://allway.tv/iptv/users/Kapral03rus/1782.m3u8
 
 ﻿
 ﻿
+
 
 
 
