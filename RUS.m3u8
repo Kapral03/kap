@@ -296,8 +296,9 @@ http://allway.tv/iptv/users/Kapral03rus/420.m3u8
 http://allway.tv/iptv/users/Kapral03rus/423.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="53" tvg-logo="http://epg.one/img/53.png" tvg-rec="3",Русский иллюзион HD
 http://allway.tv/iptv/users/Kapral03rus/424.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img/485.png" tvg-rec="7",Наше Новое Кино
-http://allway.tv/iptv/users/Kapral03rus/449.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1037" tvg-logo="http://epg.one/img/1037.png" tvg-rec="3",Кино ТВ HD
+http://allway.tv/iptv/users/Kapral03rus/426.m3u8
+
 
 
 #EXTINF:0 group-title="Кино" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="7",Viju TV1000 Русское
@@ -308,6 +309,10 @@ http://allway.tv/iptv/users/Kapral03rus/446.m3u8
 http://allway.tv/iptv/users/Kapral03rus/462.m3u8
 
 
+
+
+#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img/485.png" tvg-rec="7",Наше Новое Кино
+http://allway.tv/iptv/users/Kapral03rus/449.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="566" tvg-logo="http://epg.one/img/566.png" tvg-rec="7",Кинопремьера HD
 http://allway.tv/iptv/users/Kapral03rus/421.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2493" tvg-logo="http://epg.one/img/2493.png" tvg-rec="3",Киноужас HD
@@ -330,8 +335,7 @@ http://allway.tv/iptv/users/Kapral03rus/449.m3u8
 http://allway.tv/iptv/users/Kapral03rus/463.m3u8
 
 
-#EXTINF:0 group-title="Кино" tvg-id="1037" tvg-logo="http://epg.one/img/1037.png" tvg-rec="3",Кино ТВ HD
-http://allway.tv/iptv/users/Kapral03rus/426.m3u8
+
 
 
 #EXTINF:0 group-title="Кино" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png" tvg-rec="7",Viju+ Premiere HD
@@ -340,6 +344,7 @@ http://allway.tv/iptv/users/Kapral03rus/430.m3u8
 http://allway.tv/iptv/users/Kapral03rus/432.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="7",Viju+ Megahit HD
 http://allway.tv/iptv/users/Kapral03rus/434.m3u8
+
 
 
 
