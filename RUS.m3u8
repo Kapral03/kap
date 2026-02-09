@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://ru.epg.one/epg2.xml.gz"﻿
+#EXTM3U url-tvg="http://ru.epg.one/epg2.xml.gz,https://epg.admuspeh.my"﻿
 
 #EXTINF:-1 group-title="Улан-Удэ" tvg-id="pervy-pl5",Первый (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -553,3 +553,4 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+
