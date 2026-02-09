@@ -264,11 +264,14 @@ http://allway.tv/iptv/users/Kapral03rus/1782.m3u8
 
 
 
-
+#EXTINF:0 group-title="Кино" tvg-id="669" tvg-logo="http://epg.one/img/669.png" tvg-rec="7",Время
+http://allway.tv/iptv/users/Kapral03rus/1771.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
 http://allway.tv/iptv/users/Kapral03rus/406.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино
-http://allway.tv/iptv/users/Kapral03rus/458.m3u8﻿
+http://allway.tv/iptv/users/Kapral03rus/458.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.one/img/3357.png" tvg-rec="3",Мосфильм. Золотая коллекция
+http://allway.tv/iptv/users/Kapral03rus/507.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2829" tvg-logo="http://epg.one/img/2829.png" tvg-rec="3",Про Любовь HD
 http://allway.tv/iptv/users/Kapral03rus/408.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2831" tvg-logo="http://epg.one/img/2831.png" tvg-rec="3",Наш Кинопоказ HD
@@ -299,6 +302,8 @@ http://allway.tv/iptv/users/Kapral03rus/423.m3u8
 http://allway.tv/iptv/users/Kapral03rus/424.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="1037" tvg-logo="http://epg.one/img/1037.png" tvg-rec="3",Кино ТВ HD
 http://allway.tv/iptv/users/Kapral03rus/426.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2732" tvg-logo="http://epg.one/img/2732.png" tvg-rec="0",Премиальное HD
+http://allway.tv/iptv/users/Kapral03rus/586.m3u8
 
 
 
@@ -324,8 +329,6 @@ http://allway.tv/iptv/users/Kapral03rus/443.m3u8
 http://allway.tv/iptv/users/Kapral03rus/444.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="644" tvg-logo="http://epg.one/img/644.png" tvg-rec="7",Киномикс
 http://allway.tv/iptv/users/Kapral03rus/443.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="987" tvg-logo="http://epg.one/img/987.png" tvg-rec="7",Киносемья
-http://allway.tv/iptv/users/Kapral03rus/444.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="12" tvg-logo="http://epg.one/img/12.png" tvg-rec="7",Родное Кино
 http://allway.tv/iptv/users/Kapral03rus/445.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img/542.png" tvg-rec="7",Кинохит
@@ -334,6 +337,46 @@ http://allway.tv/iptv/users/Kapral03rus/447.m3u8
 http://allway.tv/iptv/users/Kapral03rus/449.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="1584" tvg-logo="http://epg.one/img/1584.png" tvg-rec="7",Мужское Кино
 http://allway.tv/iptv/users/Kapral03rus/463.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="462" tvg-logo="http://epg.one/img/462.png" tvg-rec="0",Киносвидание HD
+http://allway.tv/iptv/users/Kapral03rus/588.m3u8
+
+
+#EXTINF:0 group-title="Кино" tvg-id="4687" tvg-logo="http://epg.one/img/4687.png" tvg-rec="7",CineMan Marvel
+http://allway.tv/iptv/users/Kapral03rus/630.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4663" tvg-logo="http://epg.one/img/4663.png" tvg-rec="7",VF Marvel
+http://allway.tv/iptv/users/Kapral03rus/613.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8964" tvg-logo="http://epg.one/img/8964.png" tvg-rec="7",BCU Marvel HDR
+http://allway.tv/iptv/users/Kapral03rus/654.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4694" tvg-logo="http://epg.one/img/4694.png" tvg-rec="7",StrahTV Интерны ТВ
+http://allway.tv/iptv/users/Kapral03rus/679.m3u8
+
+
+
+
+#EXTINF:0 group-title="Кино" tvg-id="4648" tvg-logo="http://epg.one/img/4648.png" tvg-rec="7",VF Комедия
+http://allway.tv/iptv/users/Kapral03rus/611.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4666" tvg-logo="http://epg.one/img/4666.png" tvg-rec="7",VF Катастрофы
+http://allway.tv/iptv/users/Kapral03rus/612.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4665" tvg-logo="http://epg.one/img/4665.png" tvg-rec="7",VF Военные
+http://allway.tv/iptv/users/Kapral03rus/614.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4669" tvg-logo="http://epg.one/img/4669.png" tvg-rec="7",VF Наша победа
+http://allway.tv/iptv/users/Kapral03rus/615.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4667" tvg-logo="http://epg.one/img/4667.png" tvg-rec="7",VF Мосфильм
+http://allway.tv/iptv/users/Kapral03rus/616.m3u8
+
+
+#EXTINF:0 group-title="Кино" tvg-id="4753" tvg-logo="http://epg.one/img/4753.png" tvg-rec="7",BCU Fantastic HD
+http://allway.tv/iptv/users/Kapral03rus/650.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4748" tvg-logo="http://epg.one/img/4748.png" tvg-rec="7",BCU Action HD
+http://allway.tv/iptv/users/Kapral03rus/645.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4749" tvg-logo="http://epg.one/img/4749.png" tvg-rec="7",BCU Catastrophe HD
+http://allway.tv/iptv/users/Kapral03rus/646.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4750" tvg-logo="http://epg.one/img/4750.png" tvg-rec="7",BCU Cinema HD
+http://allway.tv/iptv/users/Kapral03rus/647.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4751" tvg-logo="http://epg.one/img/4751.png" tvg-rec="7",BCU Cinema+ HD
+http://allway.tv/iptv/users/Kapral03rus/648.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8963" tvg-logo="http://epg.one/img/8963.png" tvg-rec="7",BCU Comedy HDR
+http://allway.tv/iptv/users/Kapral03rus/649.m3u8
 
 
 
@@ -348,13 +391,16 @@ http://allway.tv/iptv/users/Kapral03rus/434.m3u8
 
 
 
-
-
-
-
-
-
-
+#EXTINF:0 group-title="Развлекательные" tvg-id="6417" tvg-logo="http://epg.one/img/6417.png" tvg-rec="0",VF Уральские пельмени
+http://allway.tv/iptv/users/Kapral03rus/1966.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6706" tvg-logo="http://epg.one/img/6706.png" tvg-rec="0",VF Однажды в России
+http://allway.tv/iptv/users/Kapral03rus/1969.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="2760" tvg-logo="http://epg.one/img/2760.png" tvg-rec="3",Анекдот ТВ
+http://allway.tv/iptv/users/Kapral03rus/1938.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="7663" tvg-logo="http://epg.one/img/7663.png" tvg-rec="0",VF Концерты
+http://allway.tv/iptv/users/Kapral03rus/1925.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="3550" tvg-logo="http://epg.one/img/3550.png" tvg-rec="3",Зал Суда HD
+http://allway.tv/iptv/users/Kapral03rus/1947.m3u8
 
 
 
