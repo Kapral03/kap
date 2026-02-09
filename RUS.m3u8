@@ -264,8 +264,9 @@ http://allway.tv/iptv/users/Kapral03rus/1782.m3u8
 
 
 
+
 #EXTINF:0 group-title="Кино" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
-http://allway.tv/iptv/users/Kapral03rus/406.m3u8﻿
+http://allway.tv/iptv/users/Kapral03rus/406.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино
 http://allway.tv/iptv/users/Kapral03rus/458.m3u8﻿
 #EXTINF:0 group-title="Кино" tvg-id="2829" tvg-logo="http://epg.one/img/2829.png" tvg-rec="3",Про Любовь HD
@@ -344,6 +345,7 @@ http://allway.tv/iptv/users/Kapral03rus/430.m3u8
 http://allway.tv/iptv/users/Kapral03rus/432.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="7",Viju+ Megahit HD
 http://allway.tv/iptv/users/Kapral03rus/434.m3u8
+
 
 
 
