@@ -281,10 +281,6 @@ http://live.biluspeh.com/8108/video.m3u8?token=psMiZ73hXdcBtj1b
 http://live.biluspeh.com/9222/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="Звезда" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20+0%20(%D0%AD%D0%BB%D0%B8%D1%81%D1%82%D0%B0).png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8037/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Звезда
 http://live.biluspeh.com/8037/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Звезда Плюс" group-title="Информационные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%9F%D0%BB%D1%8E%D1%81.png" catchup-days="0", Звезда Плюс
-http://live.biluspeh.com/8403/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="День Победы HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B5%D0%BD%D1%8C%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%20HD.png" catchup-days="0", День Победы HD
-http://live.biluspeh.com/9221/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="Победа" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0%20HD.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8391/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Победа
 http://live.biluspeh.com/8391/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.%20%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8707/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Мосфильм. Золотая коллекция
@@ -557,10 +553,6 @@ http://live.biluspeh.com/8545/video.m3u8?token=psMiZ73hXdcBtj1b
 http://live.biluspeh.com/8658/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="MiniMax Translation HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Translation%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8633/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Translation HD
 http://live.biluspeh.com/8633/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax World Hits HD" group-title="Музыка"  tvg-logo="https://icon.biluspeh.com/icon/MM%20World%20Hits%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8617/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax World Hits HD
-http://live.biluspeh.com/8617/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Flip UHD" group-title="4K"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Flip%20UHD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8404/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Flip UHD
-http://live.biluspeh.com/8404/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="MiniMax Стивен Кинг HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8629/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Стивен Кинг HD
 http://live.biluspeh.com/8629/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="MiniMax UFO HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20UFO%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8410/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax UFO HD
@@ -797,6 +789,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+
 
 
 
