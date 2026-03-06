@@ -165,20 +165,18 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 ﻿
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo"https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Рыбалка и охота 🇷🇺",Рыболов
 
-#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="6124" tvg-logo="http://epg.one/img/6124.png" tvg-rec="0",VF Рыбалка
-http://allway.tv/iptv/users/Kapral03rus/1882.m3u8
-#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2627" tvg-logo="http://epg.one/img/2627.png" tvg-rec="3" ,Диалоги о Рыбалке
-http://allway.tv/iptv/users/Kapral03rus/1765.m3u8
-#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2419" tvg-logo="http://epg.one/img/2419.png" tvg-rec="7" ,Охота и Рыбалка
-http://allway.tv/iptv/users/Kapral03rus/1794.m3u8
+#EXTINF:-1 tvg-id="Диалоги о рыбалке" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%20%D0%BE%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B5%20HD.png" catchup-days="0", Диалоги о рыбалке
+http://live.biluspeh.com/8324/video.m3u8?token=psMiZ73hXdcBtj1b
+#EXTINF:-1 tvg-id="Охота и Рыбалка" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8065/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Охота и Рыбалка
+http://live.biluspeh.com/8065/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="Охотник и рыболов HD" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B8%20%D0%A0%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8183/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Охотник и рыболов HD
 http://live.biluspeh.com/8183/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2484" tvg-logo="http://epg.one/img/2484.png" tvg-rec="7" ,Дикая Рыбалка HD
-http://allway.tv/iptv/users/Kapral03rus/1764.m3u8
-#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2283" tvg-logo="http://epg.one/img/2283.png" tvg-rec="7" ,Дикий
-http://allway.tv/iptv/users/Kapral03rus/1790.m3u8
-#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2483" tvg-logo="http://epg.one/img/2483.png" tvg-rec="7" ,Дикая охота HD
-http://allway.tv/iptv/users/Kapral03rus/1763.m3u8
+#EXTINF:-1 tvg-id="Дикая Рыбалка HD" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20HD%20orig.png" catchup-days="0", Дикая Рыбалка HD
+http://live.biluspeh.com/8316/video.m3u8?token=psMiZ73hXdcBtj1b
+#EXTINF:-1 tvg-id="Дикий" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B8%D0%BA%D0%B8%D0%B9%20orig.png" catchup-days="0", Дикий
+http://live.biluspeh.com/9205/video.m3u8?token=psMiZ73hXdcBtj1b
+#EXTINF:-1 tvg-id="Дикая охота HD" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D0%BE%D1%85%D0%BE%D1%82%D0%B0%20HD%20orig.png" catchup-days="0", Дикая охота HD
+http://live.biluspeh.com/9206/video.m3u8?token=psMiZ73hXdcBtj1b
 
 
 #EXTINF:0 group-title="Познавательные" tvg-id="2451" tvg-logo="http://epg.one/img/2451.png" tvg-rec="7",Вопросы и ответы
@@ -588,6 +586,7 @@ http://live.biluspeh.com/9077/video.m3u8?token=psMiZ73hXdcBtj1b
 http://live.biluspeh.com/9080/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9084/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Счастливого нового года HD
 http://live.biluspeh.com/9084/video.m3u8?token=psMiZ73hXdcBtj1b
+
 
 
 
