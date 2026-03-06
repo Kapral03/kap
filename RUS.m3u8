@@ -617,12 +617,6 @@ http://live.biluspeh.com/8616/video.m3u8?token=psMiZ73hXdcBtj1b
 http://live.biluspeh.com/8614/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="MiniMax USSR Приключения HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8615/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax USSR Приключения HD
 http://live.biluspeh.com/8615/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax USSR Мультфильм HD" group-title="Детские"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8913/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax USSR Мультфильм HD
-http://live.biluspeh.com/8913/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Live Planet HD" group-title="Развлекательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Live%20Planet%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8599/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Live Planet HD
-http://live.biluspeh.com/8599/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Relax HD" group-title="Развлекательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Relax%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8793/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Relax HD
-http://live.biluspeh.com/8793/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="MiniMax Приключения HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8779/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Приключения HD
 http://live.biluspeh.com/8779/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="MiniMax Мифология HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8625/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Мифология HD
@@ -803,6 +797,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+
 
 
 
