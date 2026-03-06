@@ -171,8 +171,8 @@ http://allway.tv/iptv/users/Kapral03rus/1882.m3u8
 http://allway.tv/iptv/users/Kapral03rus/1765.m3u8
 #EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2419" tvg-logo="http://epg.one/img/2419.png" tvg-rec="7" ,Охота и Рыбалка
 http://allway.tv/iptv/users/Kapral03rus/1794.m3u8
-#EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="1681" tvg-logo="http://epg.one/img/1681.png" tvg-rec="7" ,Охотник и Рыболов HD  
-http://allway.tv/iptv/users/Kapral03rus/1752.m3u8
+#EXTINF:-1 tvg-id="Охотник и рыболов HD" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B8%20%D0%A0%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8183/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Охотник и рыболов HD
+http://live.biluspeh.com/8183/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2484" tvg-logo="http://epg.one/img/2484.png" tvg-rec="7" ,Дикая Рыбалка HD
 http://allway.tv/iptv/users/Kapral03rus/1764.m3u8
 #EXTINF:-1 group-title="Рыбалка и охота 🇷🇺" tvg-id="2283" tvg-logo="http://epg.one/img/2283.png" tvg-rec="7" ,Дикий
@@ -588,6 +588,7 @@ http://live.biluspeh.com/9077/video.m3u8?token=psMiZ73hXdcBtj1b
 http://live.biluspeh.com/9080/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9084/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Счастливого нового года HD
 http://live.biluspeh.com/9084/video.m3u8?token=psMiZ73hXdcBtj1b
+
 
 
 
