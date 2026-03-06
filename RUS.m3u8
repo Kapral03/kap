@@ -60,18 +60,6 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 
 
 
-﻿#EXTINF:-1 group-title="Общие 🇷🇺" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+5)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+5) 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_UUDE.m3u8
-1#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-1http://cdn.admuspeh.my/8300/video.m3u8?token=c5gxB6MyLHhGfq7n
-#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия 1 (+9)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,НТВ (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
@@ -82,20 +70,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺", Россия 24 
-http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA24_UUDE.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺", Россия 24 
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺" tvg-id="solovjinypomiot" ,Соловьев.Live 
-http://195.26.83.96:7029/play/a003
+
 #EXTINF:-1 group-title="Общие 🇷🇺" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Ариг Ус 24  
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" tvg-logo="http://www.oreol.tv/img/OTR_logo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР
 #EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,ТВЦ +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+
 #EXTINF:-1 group-title="Общие 🇷🇺", Сарафан
 http://31.148.48.15:80/Sarafan/index.m3u8?token=test
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Рен ТВ +4  
@@ -106,7 +92,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Россия К (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,СТС (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
@@ -137,10 +123,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,МИР (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Победа
-
-#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Звезда плюс
-
 #EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Звезда (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
@@ -176,44 +158,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Че! (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Че! (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Суббота! (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Суббота! (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,СОЛНЦЕ (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Общие 🇷🇺" ,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,СОЛНЦЕ (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-﻿
 
 ﻿
 
-#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="4661" tvg-logo="http://epg.one/img/4661.png" tvg-rec="7" ,Звезда Плюс
-http://allway.tv/iptv/users/Kapral03rus/158.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="6669" tvg-logo="http://epg.one/img/6669.png" tvg-rec="0" ,Звезда Плюс HD
-http://allway.tv/iptv/users/Kapral03rus/58.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="2773" tvg-logo="http://epg.one/img/2773.png" tvg-rec="3" ,День Победы HD
-http://allway.tv/iptv/users/Kapral03rus/437.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="7" ,Победа
-http://allway.tv/iptv/users/Kapral03rus/439.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="3" ,Победа HD
-http://allway.tv/iptv/users/Kapral03rus/438.m3u8
-#EXTINF:-1 group-title="Военные 🇷🇺" ,Патриот
-
-#EXTINF:-1 group-title="Военные 🇷🇺" tvg-id="2768" tvg-logo="http://epg.one/img/2768.png" tvg-rec="3" ,Арсенал HD
-http://allway.tv/iptv/users/Kapral03rus/1937.m3u8
-#EXTINF:-1 tvg-id="191" group-title="Военные 🇷🇺" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8206/video-${start}-${duration}.m3u8?token=h1Rsy29PjoGsdVJf" timeshift="14", Оружие
-http://allway.tv/iptv/users/Kapral03rus/1802.m3u8
 ﻿
 ﻿
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo"https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Рыбалка и охота 🇷🇺",Рыболов
@@ -645,158 +592,7 @@ http://live.biluspeh.com/9084/video.m3u8?token=psMiZ73hXdcBtj1b
 
 
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+5)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал (+5)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_UUDE_1TV_ULAN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+6)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал (+6)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_1TV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Россия 1 (+5)" tvg-logo="https://i.ibb.co/ZxgPP58/image-34.png" group-title="🌌 Россия Геоблок 🌌", Россия 1 (+5)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Россия 1 (+6)" tvg-logo="https://i.ibb.co/ZxgPP58/image-34.png" group-title="🌌 Россия Геоблок 🌌", Россия 1 (+6)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="НТВ (+4)" tvg-logo="https://i.ibb.co/9N9B9JN/resize-44.png" group-title="🌌 Россия Геоблок 🌌", НТВ (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Россия 24 +5" tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png" group-title="🌌 Россия Геоблок 🌌", Россия 24 (+5)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Россия 24 +6" tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png" group-title="🌌 Россия Геоблок 🌌", Россия 24 (+6)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7//variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Россия К (+4)" tvg-logo="https://i.ibb.co/n0Xx8Fb/resize-43.png" group-title="🌌 Россия Геоблок 🌌", Россия К (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ (+4)" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="🌌 Россия Геоблок 🌌", РЕН ТВ (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ (+7)" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="🌌 Россия Геоблок 🌌", РЕН ТВ (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Домашний (+4)" tvg-logo="https://i.ibb.co/5r7dhSC/resize-10.png" group-title="🌌 Россия Геоблок 🌌", Домашний (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Домашний (+7)" tvg-logo="https://i.ibb.co/5r7dhSC/resize-10.png" group-title="🌌 Россия Геоблок 🌌", Домашний (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ (+4)" tvg-logo="https://i.ibb.co/nr0W6kC/resize-47.png" group-title="🌌 Россия Геоблок 🌌", ТНТ (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ (+7)" tvg-logo="https://i.ibb.co/nr0W6kC/resize-47.png" group-title="🌌 Россия Геоблок 🌌", ТНТ (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ4 (+4)" tvg-logo="https://i.ibb.co/Qmnwhzb/resize-46.png" group-title="🌌 Россия Геоблок 🌌", ТНТ4 (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ4 (+7)" tvg-logo="https://i.ibb.co/Qmnwhzb/resize-46.png" group-title="🌌 Россия Геоблок 🌌", ТНТ4 (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС (+4)" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_4//variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС (+7)" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_7//variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТВ 3 (+4)" tvg-logo="https://i.ibb.co/DkkTqVq/image-43.png" group-title="🌌 Россия Геоблок 🌌", ТВ 3 (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТВ 3 (+7)" tvg-logo="https://i.ibb.co/DkkTqVq/image-43.png" group-title="🌌 Россия Геоблок 🌌", ТВ 3 (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Че (+4)" tvg-logo="https://i.ibb.co/k4DQqL9/resize-14.png" group-title="🌌 Россия Геоблок 🌌", Че (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://dmi3y-tv.ru/hls/CH_CHE_2.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Че (+7)" tvg-logo="https://i.ibb.co/k4DQqL9/resize-14.png" group-title="🌌 Россия Геоблок 🌌", Че (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Солнце RU (+4)" tvg-logo="https://i.ibb.co/GnPPjZ0/image-45.png" group-title="🌌 Россия Геоблок 🌌", Солнце RU (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Солнце RU (+7)" tvg-logo="https://i.ibb.co/GnPPjZ0/image-45.png" group-title="🌌 Россия Геоблок 🌌", Солнце RU (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Звезда (+4)" tvg-logo="https://i.ibb.co/M8B7kxL/resize-17.png" group-title="🌌 Россия Геоблок 🌌", Звезда (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Звезда (+7)" tvg-logo="https://i.ibb.co/M8B7kxL/resize-17.png" group-title="🌌 Россия Геоблок 🌌", Звезда (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч ТВ" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="🌌 Россия Геоблок 🌌", Матч ТВ
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Мир (+4)" tvg-logo="https://i.ibb.co/6Jy5f9Y/resize-9.png" group-title="🌌 Россия Геоблок 🌌", Мир (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Мир (+7)" tvg-logo="https://i.ibb.co/6Jy5f9Y/resize-9.png" group-title="🌌 Россия Геоблок 🌌", Мир (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Пятница! (+4)" tvg-logo="https://i.ibb.co/8gL3rzg/resize-55.png" group-title="🌌 Россия Геоблок 🌌", Пятница! (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Пятница! (+5)" tvg-logo="https://i.ibb.co/8gL3rzg/resize-55.png" group-title="🌌 Россия Геоблок 🌌", Пятница! (+5)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Пятница! (+7)" tvg-logo="https://i.ibb.co/8gL3rzg/resize-55.png" group-title="🌌 Россия Геоблок 🌌", Пятница! (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Пятый канал (+4)" tvg-logo="https://i.ibb.co/VTFXBrg/resize-11.png" group-title="🌌 Россия Геоблок 🌌", Пятый канал (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Пятый канал (+7)" tvg-logo="https://i.ibb.co/VTFXBrg/resize-11.png" group-title="🌌 Россия Геоблок 🌌", Пятый канал (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Супер (+4)" tvg-logo="https://i.ibb.co/QNZcdVz/resize-57.png" group-title="🌌 Россия Геоблок 🌌", Суббота (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Супер (+7)" tvg-logo="https://i.ibb.co/QNZcdVz/resize-57.png" group-title="🌌 Россия Геоблок 🌌", Суббота (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Ю (+4)" tvg-logo="https://i.ibb.co/C1YnS1Y/image-47.png" group-title="🌌 Россия Геоблок 🌌", Ю (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Ю (+7)" tvg-logo="https://i.ibb.co/C1YnS1Y/image-47.png" group-title="🌌 Россия Геоблок 🌌", Ю (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+
 
 
 
