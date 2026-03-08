@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://ru.epg.one/epg2.xml.gz,https://epg.admuspeh.my,http://gabbarit.drm-play.com/epg_1.xml.gz"﻿
+#EXTM3U url-tvg="https://epg.biluspeh.com/epg.xml.gz"﻿
 
 #EXTINF:-1 group-title="Улан-Удэ" tvg-id="pervy-pl5",Первый (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -586,6 +586,7 @@ http://live.biluspeh.com/9077/video.m3u8?token=psMiZ73hXdcBtj1b
 http://live.biluspeh.com/9080/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9084/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Счастливого нового года HD
 http://live.biluspeh.com/9084/video.m3u8?token=psMiZ73hXdcBtj1b
+
 
 
 
