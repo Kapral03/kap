@@ -179,8 +179,8 @@ http://live.biluspeh.com/9205/video.m3u8?token=psMiZ73hXdcBtj1b
 http://live.biluspeh.com/9206/video.m3u8?token=psMiZ73hXdcBtj1b
 
 
-#EXTINF:0 group-title="Познавательные" tvg-id="2451" tvg-logo="http://epg.one/img/2451.png" tvg-rec="7",Вопросы и ответы
-http://allway.tv/iptv/users/Kapral03rus/1822.m3u8
+#EXTINF:-1 tvg-id="Вопросы и ответы" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8053/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Вопросы и ответы
+http://live.biluspeh.com/8053/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:0 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.one/img/2008.png" tvg-rec="0",Авто 24 HD
 http://allway.tv/iptv/users/Kapral03rus/1683.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2444" tvg-logo="http://epg.one/img/2444.png" tvg-rec="0",Мужской HD
@@ -586,6 +586,7 @@ http://live.biluspeh.com/9077/video.m3u8?token=psMiZ73hXdcBtj1b
 http://live.biluspeh.com/9080/video.m3u8?token=psMiZ73hXdcBtj1b
 #EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9084/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Счастливого нового года HD
 http://live.biluspeh.com/9084/video.m3u8?token=psMiZ73hXdcBtj1b
+
 
 
 
