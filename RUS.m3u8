@@ -166,433 +166,414 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo"https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Рыбалка и охота 🇷🇺",Рыболов
 
 #EXTINF:-1 tvg-id="Диалоги о рыбалке" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%20%D0%BE%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B5%20HD.png" catchup-days="0", Диалоги о рыбалке
-http://live.biluspeh.com/8324/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Охота и Рыбалка" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8065/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Охота и Рыбалка
-http://live.biluspeh.com/8065/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Охотник и рыболов HD" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B8%20%D0%A0%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8183/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Охотник и рыболов HD
-http://live.biluspeh.com/8183/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8324/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Охота и Рыбалка" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8065/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Охота и Рыбалка
+http://live.biluspeh.com/8065/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Охотник и рыболов HD" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B8%20%D0%A0%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8183/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Охотник и рыболов HD
+http://live.biluspeh.com/8183/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Дикая Рыбалка HD" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20HD%20orig.png" catchup-days="0", Дикая Рыбалка HD
-http://live.biluspeh.com/8316/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8316/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Дикий" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B8%D0%BA%D0%B8%D0%B9%20orig.png" catchup-days="0", Дикий
-http://live.biluspeh.com/9205/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/9205/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Дикая охота HD" group-title="Рыбалка и охота 🇷🇺"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D0%BE%D1%85%D0%BE%D1%82%D0%B0%20HD%20orig.png" catchup-days="0", Дикая охота HD
-http://live.biluspeh.com/9206/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/9206/video.m3u8?token=NdeS268VsvrCj7oY
 
 
-#EXTINF:-1 tvg-id="Вопросы и ответы" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8053/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Вопросы и ответы
-http://live.biluspeh.com/8053/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Nat Geo Wild" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/NAT%20GEO%20WILD%20IL.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8079/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Nat Geo Wild
-http://live.biluspeh.com/8079/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Наука 2.0" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8104/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Наука 2.0
-http://live.biluspeh.com/8104/video.m3u8?token=psMiZ73hXdcBtj1b
+#EXTINF:-1 tvg-id="Вопросы и ответы" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8053/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Вопросы и ответы
+http://live.biluspeh.com/8053/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Nat Geo Wild" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/NAT%20GEO%20WILD%20IL.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8079/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Nat Geo Wild
+http://live.biluspeh.com/8079/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Наука 2.0" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8104/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Наука 2.0
+http://live.biluspeh.com/8104/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Тайны Галактики" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/Galaxy%20HD.png" catchup-days="0", Тайны Галактики
-http://live.biluspeh.com/8337/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Техно 24" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A224%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8196/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Техно 24
-http://live.biluspeh.com/8196/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Микромир HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8635/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Микромир HD
-http://live.biluspeh.com/8635/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Макромир HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B0%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8636/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Макромир HD
-http://live.biluspeh.com/8636/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Мегамир HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8770/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Мегамир HD
-http://live.biluspeh.com/8770/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Experiment HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Experiment%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8643/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Experiment HD
-http://live.biluspeh.com/8643/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Открытия HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8647/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Открытия HD
-http://live.biluspeh.com/8647/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="КВН ТВ" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%92%D0%9D%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8330/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", КВН ТВ
-http://live.biluspeh.com/8330/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8337/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Техно 24" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A224%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8196/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Техно 24
+http://live.biluspeh.com/8196/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Микромир HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8635/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Микромир HD
+http://live.biluspeh.com/8635/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Макромир HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B0%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8636/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Макромир HD
+http://live.biluspeh.com/8636/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Мегамир HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8770/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Мегамир HD
+http://live.biluspeh.com/8770/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Experiment HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Experiment%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8643/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Experiment HD
+http://live.biluspeh.com/8643/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Открытия HD" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8647/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Открытия HD
+http://live.biluspeh.com/8647/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="КВН ТВ" group-title="Познавательные"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%92%D0%9D%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8330/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", КВН ТВ
+http://live.biluspeh.com/8330/video.m3u8?token=NdeS268VsvrCj7oY
 
 
 
 
-#EXTINF:-1 tvg-id="Патриот" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8285/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Патриот
-http://live.biluspeh.com/8285/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="viju TV1000 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju%20TV1000%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8048/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", viju TV1000 HD
-http://live.biluspeh.com/8048/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="viju TV1000 action HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju%20TV1000%20Action%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8049/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", viju TV1000 action HD
-http://live.biluspeh.com/8049/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="viju TV1000 русское HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju%20TV1000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8050/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", viju TV1000 русское HD
-http://live.biluspeh.com/8050/video.m3u8?token=psMiZ73hXdcBtj1b
+#EXTINF:-1 tvg-id="Патриот" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8285/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Патриот
+http://live.biluspeh.com/8285/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="viju TV1000 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju%20TV1000%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8048/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", viju TV1000 HD
+http://live.biluspeh.com/8048/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="viju TV1000 action HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju%20TV1000%20Action%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8049/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", viju TV1000 action HD
+http://live.biluspeh.com/8049/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="viju TV1000 русское HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju%20TV1000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8050/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", viju TV1000 русское HD
+http://live.biluspeh.com/8050/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="viju TV1000 новелла HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju%20TV1000%20%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0.png" catchup-days="0", viju TV1000 новелла HD
-http://live.biluspeh.com/8973/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="viju+ Premiere HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju+%20Premiere%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8119/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", viju+ Premiere HD
-http://live.biluspeh.com/8119/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="viju+ Megahit HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju+%20Megahit%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8109/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", viju+ Megahit HD
-http://live.biluspeh.com/8109/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="viju+ Comedy HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju+%20Comedy%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8108/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", viju+ Comedy HD
-http://live.biluspeh.com/8108/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8973/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="viju+ Premiere HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju+%20Premiere%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8119/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", viju+ Premiere HD
+http://live.biluspeh.com/8119/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="viju+ Megahit HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju+%20Megahit%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8109/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", viju+ Megahit HD
+http://live.biluspeh.com/8109/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="viju+ Comedy HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju+%20Comedy%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8108/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", viju+ Comedy HD
+http://live.biluspeh.com/8108/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="viju+ Serial HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Viju+%20Serial%20HD%20orig.png" catchup-days="0", viju+ Serial HD
-http://live.biluspeh.com/9222/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Звезда" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20+0%20(%D0%AD%D0%BB%D0%B8%D1%81%D1%82%D0%B0).png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8037/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Звезда
-http://live.biluspeh.com/8037/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Победа" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0%20HD.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8391/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Победа
-http://live.biluspeh.com/8391/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.%20%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8707/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Мосфильм. Золотая коллекция
-http://live.biluspeh.com/8707/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Наше HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%88%D0%B5%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8059/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Наше HD
-http://live.biluspeh.com/8059/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Русский роман" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8010/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Русский роман
-http://live.biluspeh.com/8010/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Красная линия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8390/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Красная линия
-http://live.biluspeh.com/8390/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Кинохит" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8039/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Кинохит
-http://live.biluspeh.com/8039/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Киномикс" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8040/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Киномикс
-http://live.biluspeh.com/8040/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Киносвидание" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8041/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Киносвидание
-http://live.biluspeh.com/8041/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Кинокомедия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8042/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Кинокомедия
-http://live.biluspeh.com/8042/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Киносерия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8043/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Киносерия
-http://live.biluspeh.com/8043/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Киносемья" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8047/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Киносемья
-http://live.biluspeh.com/8047/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Наше Новое Кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8044/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Наше Новое Кино
-http://live.biluspeh.com/8044/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Кинопремьера" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8199/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Кинопремьера
-http://live.biluspeh.com/8199/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Киноужас HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%83%D0%B6%D0%B0%D1%81%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8357/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Киноужас HD
-http://live.biluspeh.com/8357/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Индийское кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8038/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Индийское кино
-http://live.biluspeh.com/8038/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Мужское кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8070/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Мужское кино
-http://live.biluspeh.com/8070/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Родное кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8096/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Родное кино
-http://live.biluspeh.com/8096/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Дом Кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8136/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Дом Кино
-http://live.biluspeh.com/8136/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Кинопоказ" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8139/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Кинопоказ
-http://live.biluspeh.com/8139/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Дом Кино Премиум HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8313/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Дом Кино Премиум HD
-http://live.biluspeh.com/8313/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/9222/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Звезда" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20+0%20(%D0%AD%D0%BB%D0%B8%D1%81%D1%82%D0%B0).png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8037/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Звезда
+http://live.biluspeh.com/8037/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Победа" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0%20HD.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8391/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Победа
+http://live.biluspeh.com/8391/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.%20%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8707/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Мосфильм. Золотая коллекция
+http://live.biluspeh.com/8707/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Наше HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%88%D0%B5%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8059/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Наше HD
+http://live.biluspeh.com/8059/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Русский роман" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8010/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Русский роман
+http://live.biluspeh.com/8010/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Красная линия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8390/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Красная линия
+http://live.biluspeh.com/8390/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Кинохит" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8039/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Кинохит
+http://live.biluspeh.com/8039/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Киномикс" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8040/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Киномикс
+http://live.biluspeh.com/8040/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Киносвидание" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8041/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Киносвидание
+http://live.biluspeh.com/8041/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Кинокомедия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8042/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Кинокомедия
+http://live.biluspeh.com/8042/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Киносерия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8043/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Киносерия
+http://live.biluspeh.com/8043/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Киносемья" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8047/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Киносемья
+http://live.biluspeh.com/8047/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Наше Новое Кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8044/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Наше Новое Кино
+http://live.biluspeh.com/8044/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Кинопремьера" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8199/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Кинопремьера
+http://live.biluspeh.com/8199/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Киноужас HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%83%D0%B6%D0%B0%D1%81%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8357/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Киноужас HD
+http://live.biluspeh.com/8357/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Индийское кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8038/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Индийское кино
+http://live.biluspeh.com/8038/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Мужское кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8070/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Мужское кино
+http://live.biluspeh.com/8070/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Родное кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8096/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Родное кино
+http://live.biluspeh.com/8096/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Дом Кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8136/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Дом Кино
+http://live.biluspeh.com/8136/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Кинопоказ" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8139/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Кинопоказ
+http://live.biluspeh.com/8139/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Дом Кино Премиум HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8313/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Дом Кино Премиум HD
+http://live.biluspeh.com/8313/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Наше Мужское HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20HD%20orig.png" catchup-days="0", Наше Мужское HD
-http://live.biluspeh.com/8740/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Настоящее страшное ТВ" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%A1%D0%A2%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8165/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Настоящее страшное ТВ
-http://live.biluspeh.com/8165/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Кино ТВ" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8207/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Кино ТВ
-http://live.biluspeh.com/8207/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Еврокино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8034/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Еврокино
-http://live.biluspeh.com/8034/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Иллюзион+" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD+%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8134/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Иллюзион+
-http://live.biluspeh.com/8134/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id=".sci-fi" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/.sci-fi%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8115/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", .sci-fi
-http://live.biluspeh.com/8115/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id=".black" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/.black%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8663/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", .black
-http://live.biluspeh.com/8663/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id=".red" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/.red%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8653/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", .red
-http://live.biluspeh.com/8653/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8740/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Настоящее страшное ТВ" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%A1%D0%A2%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8165/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Настоящее страшное ТВ
+http://live.biluspeh.com/8165/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Кино ТВ" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8207/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Кино ТВ
+http://live.biluspeh.com/8207/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Еврокино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8034/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Еврокино
+http://live.biluspeh.com/8034/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Иллюзион+" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD+%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8134/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Иллюзион+
+http://live.biluspeh.com/8134/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id=".sci-fi" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/.sci-fi%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8115/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", .sci-fi
+http://live.biluspeh.com/8115/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id=".black" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/.black%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8663/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", .black
+http://live.biluspeh.com/8663/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id=".red" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/.red%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8653/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", .red
+http://live.biluspeh.com/8653/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id=".red HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/.red%20HD%20orig.png" catchup-days="0", .red HD
-http://live.biluspeh.com/8929/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="FX" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/FOX%20HD%20PL.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8051/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", FX
-http://live.biluspeh.com/8051/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="FX HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Fox%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8168/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", FX HD
-http://live.biluspeh.com/8168/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="FX Life" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Fox%20Life%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8052/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", FX Life
-http://live.biluspeh.com/8052/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Любимое HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8310/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Любимое HD
-http://live.biluspeh.com/8310/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8929/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="FX" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/FOX%20HD%20PL.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8051/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", FX
+http://live.biluspeh.com/8051/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="FX HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Fox%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8168/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", FX HD
+http://live.biluspeh.com/8168/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="FX Life" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Fox%20Life%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8052/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", FX Life
+http://live.biluspeh.com/8052/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Любимое HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8310/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Любимое HD
+http://live.biluspeh.com/8310/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Любимое кино HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup-days="0", Любимое кино HD
-http://live.biluspeh.com/8946/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8946/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Лавстори HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9B%D0%B0%D0%B2%D1%81%D1%82%D0%BE%D1%80%D0%B8.png" catchup-days="0", Лавстори HD
-http://live.biluspeh.com/8970/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8970/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Про Любовь HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D1%80%D0%BE%20%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20HD%20orig.png" catchup-days="0", Про Любовь HD
-http://live.biluspeh.com/8940/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8940/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Романтичное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20HD.png" catchup-days="0", Романтичное HD
-http://live.biluspeh.com/8948/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Страшное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE%D0%B5%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8198/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Страшное HD
-http://live.biluspeh.com/8198/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Премиальное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8028/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Премиальное HD
-http://live.biluspeh.com/8028/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Душевное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D1%83%D1%88%D0%B5%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8296/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Душевное HD
-http://live.biluspeh.com/8296/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Шокирующее HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A8%D0%BE%D0%BA%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B5%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8322/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Шокирующее HD
-http://live.biluspeh.com/8322/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Русский Экстрим" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Russian%20Extreme%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8026/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Русский Экстрим
-http://live.biluspeh.com/8026/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Русский Иллюзион" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8132/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Русский Иллюзион
-http://live.biluspeh.com/8132/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Русский Детектив" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8161/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Русский Детектив
-http://live.biluspeh.com/8161/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Русский бестселлер" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B5%D1%81%D1%82%D1%81%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8162/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Русский бестселлер
-http://live.biluspeh.com/8162/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Остросюжетное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8184/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Остросюжетное HD
-http://live.biluspeh.com/8184/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Комедийное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D0%B9%D0%BD%D0%BE%D0%B5%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8323/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Комедийное HD
-http://live.biluspeh.com/8323/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Сапфир HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8169/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Сапфир HD
-http://live.biluspeh.com/8169/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="START Air HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/START%20Air%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8398/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", START Air HD
-http://live.biluspeh.com/8398/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="START World HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/START%20World%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8402/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", START World HD
-http://live.biluspeh.com/8402/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Феникс+ Кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%20%D0%BF%D0%BB%D1%8E%D1%81%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8412/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Феникс+ Кино
-http://live.biluspeh.com/8412/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Индия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8155/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Индия
-http://live.biluspeh.com/8155/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Amedia 1" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%201%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8035/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Amedia 1
-http://live.biluspeh.com/8035/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Amedia 1 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%201%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8204/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Amedia 1 HD
-http://live.biluspeh.com/8204/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8948/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Страшное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE%D0%B5%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8198/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Страшное HD
+http://live.biluspeh.com/8198/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Премиальное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8028/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Премиальное HD
+http://live.biluspeh.com/8028/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Душевное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D1%83%D1%88%D0%B5%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8296/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Душевное HD
+http://live.biluspeh.com/8296/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Шокирующее HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A8%D0%BE%D0%BA%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B5%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8322/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Шокирующее HD
+http://live.biluspeh.com/8322/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Русский Экстрим" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Russian%20Extreme%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8026/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Русский Экстрим
+http://live.biluspeh.com/8026/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Русский Иллюзион" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8132/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Русский Иллюзион
+http://live.biluspeh.com/8132/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Русский Детектив" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8161/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Русский Детектив
+http://live.biluspeh.com/8161/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Русский бестселлер" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B5%D1%81%D1%82%D1%81%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8162/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Русский бестселлер
+http://live.biluspeh.com/8162/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Остросюжетное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8184/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Остросюжетное HD
+http://live.biluspeh.com/8184/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Комедийное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D0%B9%D0%BD%D0%BE%D0%B5%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8323/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Комедийное HD
+http://live.biluspeh.com/8323/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Сапфир HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8169/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Сапфир HD
+http://live.biluspeh.com/8169/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="START Air HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/START%20Air%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8398/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", START Air HD
+http://live.biluspeh.com/8398/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="START World HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/START%20World%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8402/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", START World HD
+http://live.biluspeh.com/8402/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Феникс+ Кино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%20%D0%BF%D0%BB%D1%8E%D1%81%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8412/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Феникс+ Кино
+http://live.biluspeh.com/8412/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Индия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8155/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Индия
+http://live.biluspeh.com/8155/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Amedia 1" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%201%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8035/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Amedia 1
+http://live.biluspeh.com/8035/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Amedia 1 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%201%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8204/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Amedia 1 HD
+http://live.biluspeh.com/8204/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Amedia 2 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%202%20HD.png" catchup-days="0", Amedia 2 HD
-http://live.biluspeh.com/8927/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Amedia Premium HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%20Premium%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8215/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Amedia Premium HD
-http://live.biluspeh.com/8215/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Amedia Hit HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%20Hit%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8159/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Amedia Hit HD
-http://live.biluspeh.com/8159/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Hollywood HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Hollywood%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8651/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Hollywood HD
-http://live.biluspeh.com/8651/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Bollywood HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Bollywood%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8240/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Bollywood HD
-http://live.biluspeh.com/8240/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Shot TV" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/SHOT%20TV.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8358/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Shot TV
-http://live.biluspeh.com/8358/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Мир сериала HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9C%D0%B8%D1%80%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8662/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Мир сериала HD
-http://live.biluspeh.com/8662/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="FAN HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/FAN%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8386/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", FAN HD
-http://live.biluspeh.com/8386/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8927/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Amedia Premium HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%20Premium%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8215/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Amedia Premium HD
+http://live.biluspeh.com/8215/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Amedia Hit HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%20Hit%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8159/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Amedia Hit HD
+http://live.biluspeh.com/8159/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Hollywood HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Hollywood%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8651/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Hollywood HD
+http://live.biluspeh.com/8651/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Bollywood HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Bollywood%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8240/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Bollywood HD
+http://live.biluspeh.com/8240/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Shot TV" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/SHOT%20TV.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8358/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Shot TV
+http://live.biluspeh.com/8358/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Мир сериала HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9C%D0%B8%D1%80%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8662/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Мир сериала HD
+http://live.biluspeh.com/8662/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="FAN HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/FAN%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8386/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", FAN HD
+http://live.biluspeh.com/8386/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="FilmBox" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/FilmBox.png" catchup-days="0", FilmBox
-http://live.biluspeh.com/8938/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="FilmBox Arthouse HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Filmbox%20Arthouse%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8661/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", FilmBox Arthouse HD
-http://live.biluspeh.com/8661/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8938/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="FilmBox Arthouse HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Filmbox%20Arthouse%20HD.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8661/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", FilmBox Arthouse HD
+http://live.biluspeh.com/8661/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Star Cinema HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Star%20Cinema%20HD%20UA.png" catchup-days="0", Star Cinema HD
-http://live.biluspeh.com/8935/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8935/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Star Family HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Star%20Family%20HD%20LV.png" catchup-days="0", Star Family HD
-http://live.biluspeh.com/8936/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8936/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="TV XXI" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/TV%20XXI%20orig.png" catchup-days="0", TV XXI
-http://live.biluspeh.com/8213/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Комедия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8648/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="14", Комедия
-http://live.biluspeh.com/8648/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8213/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Комедия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8648/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="14", Комедия
+http://live.biluspeh.com/8648/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Камеди HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B0%D0%BC%D0%B5%D0%B4%D0%B8%20HD%20orig.png" catchup-days="0", Камеди HD
-http://live.biluspeh.com/8942/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Кинеко" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%B5%D0%BA%D0%BE%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8370/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", Кинеко
-http://live.biluspeh.com/8370/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8942/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Кинеко" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%B5%D0%BA%D0%BE%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8370/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", Кинеко
+http://live.biluspeh.com/8370/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Кинеко HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%B5%D0%BA%D0%BE%20HD.png" catchup-days="0", Кинеко HD
-http://live.biluspeh.com/8944/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8944/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="KION Хит HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/KION%20%D0%A5%D0%B8%D1%82%20HD.png" catchup-days="0", KION Хит HD
-http://live.biluspeh.com/8966/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kinoliving" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kinoliving.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8148/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="7", Kinoliving
-http://live.biluspeh.com/8148/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8966/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kinoliving" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kinoliving.png" catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8148/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="7", Kinoliving
+http://live.biluspeh.com/8148/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="FlixSnip" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/FlixSnip%20HD.png" catchup-days="0", FlixSnip
-http://live.biluspeh.com/8928/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8928/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Scream HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Scream.png" catchup-days="0", Scream HD
-http://live.biluspeh.com/8932/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8932/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Дорама HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%20HD%20orig.png" catchup-days="0", Дорама HD
-http://live.biluspeh.com/8937/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8937/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Блокбастер HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%91%D0%BB%D0%BE%D0%BA%D0%B1%D0%B0%D1%81%D1%82%D0%B5%D1%80%20HD%20orig.png" catchup-days="0", Блокбастер HD
-http://live.biluspeh.com/8939/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8939/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Хит HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A5%D0%B8%D1%82%20HD.png" catchup-days="0", Хит HD
-http://live.biluspeh.com/8941/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8941/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Sumiko HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Sumiko.png" catchup-days="0", Sumiko HD
-http://live.biluspeh.com/8968/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8968/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Suspense HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Suspense.png" catchup-days="0", Suspense HD
-http://live.biluspeh.com/8971/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8971/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Trash HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Trash%20HD.png" catchup-days="0", Trash HD
-http://live.biluspeh.com/8945/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8945/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="VHS-ка HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/VHS.png" catchup-days="0", VHS-ка HD
-http://live.biluspeh.com/8962/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8962/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Plan B HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Plan%20B%20HD.png" catchup-days="0", Plan B HD
-http://live.biluspeh.com/8947/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8947/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="DetectiveJam" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/DetectiveJam%20HD.png" catchup-days="0", DetectiveJam
-http://live.biluspeh.com/8963/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8963/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Криминальное HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20HD.png" catchup-days="0", Криминальное HD
-http://live.biluspeh.com/8965/video.m3u8?token=psMiZ73hXdcBtj1b
+http://live.biluspeh.com/8965/video.m3u8?token=NdeS268VsvrCj7oY
 #EXTINF:-1 tvg-id="Cinema HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/Cinema%20HD.png" catchup-days="0", Cinema HD
-http://live.biluspeh.com/8949/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8952/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan FHD
-http://live.biluspeh.com/8952/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan MiniSeries FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-miniseries.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8961/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan MiniSeries FHD
-http://live.biluspeh.com/8961/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan TOP FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-top.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8959/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan TOP FHD
-http://live.biluspeh.com/8959/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Marvel FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-marvel.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8951/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Marvel FHD
-http://live.biluspeh.com/8951/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Ужасы FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-uzhasy.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8960/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Ужасы FHD
-http://live.biluspeh.com/8960/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Триллер FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-thriller.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8954/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Триллер FHD
-http://live.biluspeh.com/8954/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Катастрофы FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/CineMan%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%8B.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8957/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Катастрофы FHD
-http://live.biluspeh.com/8957/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Premium FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-premium.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8967/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Premium FHD
-http://live.biluspeh.com/8967/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Мелодрама FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-melodrama.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8955/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Мелодрама FHD
-http://live.biluspeh.com/8955/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Комедийные сериалы FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-komseri.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8958/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Комедийные сериалы FHD
-http://live.biluspeh.com/8958/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Ментовские войны FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-musw.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8802/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Ментовские войны FHD
-http://live.biluspeh.com/8802/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Симпсоны" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/CineMan%20%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D1%8B.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8833/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Симпсоны
-http://live.biluspeh.com/8833/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Криминальные Сериалы FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-gluhar.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8772/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Криминальные Сериалы FHD
-http://live.biluspeh.com/8772/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Военные Сериалы" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-vovserials.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8574/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Военные Сериалы
-http://live.biluspeh.com/8574/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Расследование авиакатастроф FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-aircrash.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8826/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Расследование авиакатастроф FHD
-http://live.biluspeh.com/8826/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan РуКино FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-rukino.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8871/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan РуКино FHD
-http://live.biluspeh.com/8871/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan СССР HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/CineMan%20%D0%A1%D0%A1%D0%A1%D0%A0%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/9121/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan СССР HD
-http://live.biluspeh.com/9121/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan ПёС + ЛИХАЧ FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-pes.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8824/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan ПёС + ЛИХАЧ FHD
-http://live.biluspeh.com/8824/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Лесник FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-lesnik.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8767/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Лесник FHD
-http://live.biluspeh.com/8767/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Фитнес FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-fitnes.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8771/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Фитнес FHD
-http://live.biluspeh.com/8771/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan VHS FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-vhs.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8807/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan VHS FHD
-http://live.biluspeh.com/8807/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Emergency Room FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/CineMan%20%D0%A1%D0%BA%D0%BE%D1%80%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8821/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Emergency Room FHD
-http://live.biluspeh.com/8821/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="CineMan Сваты FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-svaty.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8825/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", CineMan Сваты FHD
-http://live.biluspeh.com/8825/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Newfilm 1" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%201%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8741/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Newfilm 1
-http://live.biluspeh.com/8741/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Newfilm 2" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%202%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8742/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Newfilm 2
-http://live.biluspeh.com/8742/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Newfilm 3" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%203%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8743/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Newfilm 3
-http://live.biluspeh.com/8743/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax NewFilm RU HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%20RU%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8706/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax NewFilm RU HD
-http://live.biluspeh.com/8706/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Семейный 1 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%201%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8442/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Семейный 1 HD
-http://live.biluspeh.com/8442/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Семейный 2 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%202%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8449/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Семейный 2 HD
-http://live.biluspeh.com/8449/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Боевик" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8745/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Боевик
-http://live.biluspeh.com/8745/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Ужасы" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8725/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Ужасы
-http://live.biluspeh.com/8725/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Love HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Love%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8328/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Love HD
-http://live.biluspeh.com/8328/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Комедия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8708/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Комедия
-http://live.biluspeh.com/8708/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Фантастика HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8631/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Фантастика HD
-http://live.biluspeh.com/8631/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Триллер HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A2%D1%80%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8778/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Триллер HD
-http://live.biluspeh.com/8778/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Ужастик HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8325/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Ужастик HD
-http://live.biluspeh.com/8325/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Фобия HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A4%D0%BE%D0%B1%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8994/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Фобия HD
-http://live.biluspeh.com/8994/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Драма HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8634/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Драма HD
-http://live.biluspeh.com/8634/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Катастрофа" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8746/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Катастрофа
-http://live.biluspeh.com/8746/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Вестерн HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BD%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8619/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Вестерн HD
-http://live.biluspeh.com/8619/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Грайндхаус HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%93%D1%80%D0%B0%D0%B9%D0%BD%D0%B4%D1%85%D0%B0%D1%83%D1%81%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8621/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Грайндхаус HD
-http://live.biluspeh.com/8621/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Криминал HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8624/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Криминал HD
-http://live.biluspeh.com/8624/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Супергерои" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8710/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Супергерои
-http://live.biluspeh.com/8710/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Синематограф HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8627/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Синематограф HD
-http://live.biluspeh.com/8627/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Нуар HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9D%D1%83%D0%B0%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8733/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Нуар HD
-http://live.biluspeh.com/8733/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Затмение HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%97%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8685/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Затмение HD
-http://live.biluspeh.com/8685/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Погружение HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8799/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Погружение HD
-http://live.biluspeh.com/8799/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Киберпанк HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D0%BA%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8545/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Киберпанк HD
-http://live.biluspeh.com/8545/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Кинофестиваль HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8658/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Кинофестиваль HD
-http://live.biluspeh.com/8658/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Translation HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Translation%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8633/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Translation HD
-http://live.biluspeh.com/8633/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Стивен Кинг HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8629/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Стивен Кинг HD
-http://live.biluspeh.com/8629/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax UFO HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20UFO%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8410/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax UFO HD
-http://live.biluspeh.com/8410/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Скорость HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8916/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Скорость HD
-http://live.biluspeh.com/8916/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Спорт HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%BF%D0%BE%D1%80%D1%82%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8652/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Спорт HD
-http://live.biluspeh.com/8652/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Кунг-Фу HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%83%D0%BD%D0%B3-%D0%A4%D1%83%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8559/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Кунг-Фу HD
-http://live.biluspeh.com/8559/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Роскино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A0%D0%BE%D1%81%D0%BA%D0%B8%D0%BD%D0%BE%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8709/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Роскино
-http://live.biluspeh.com/8709/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Квартирник HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%BD%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8622/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Квартирник HD
-http://live.biluspeh.com/8622/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Крутые 90-е HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%80%D1%83%D1%82%D1%8B%D0%B5%2090-%D0%B5%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8547/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Крутые 90-е HD
-http://live.biluspeh.com/8547/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax OldSchool HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20OldSchool%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8644/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax OldSchool HD
-http://live.biluspeh.com/8644/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Celebrity HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Celebrity%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8991/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Celebrity HD
-http://live.biluspeh.com/8991/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Ситком HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8628/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Ситком HD
-http://live.biluspeh.com/8628/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Ситком 2.0 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%202.0%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8623/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Ситком 2.0 HD
-http://live.biluspeh.com/8623/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Агата Кристи HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%90%D0%B3%D0%B0%D1%82%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8618/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Агата Кристи HD
-http://live.biluspeh.com/8618/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax История HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8933/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax История HD
-http://live.biluspeh.com/8933/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Воронины HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8620/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Воронины HD
-http://live.biluspeh.com/8620/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Сваты HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8893/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Сваты HD
-http://live.biluspeh.com/8893/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Полицейский с Рублёвки HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%20%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2%D0%BA%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8626/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Полицейский с Рублёвки HD
-http://live.biluspeh.com/8626/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax 007 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20007%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8327/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax 007 HD
-http://live.biluspeh.com/8327/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Classic HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8632/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Classic HD
-http://live.biluspeh.com/8632/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Ужасы Classic HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8630/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Ужасы Classic HD
-http://live.biluspeh.com/8630/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Комедия Classic HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8789/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Комедия Classic HD
-http://live.biluspeh.com/8789/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Боевик Classic HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20Classic%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8411/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax Боевик Classic HD
-http://live.biluspeh.com/8411/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax USSR Комедия HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8744/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax USSR Комедия HD
-http://live.biluspeh.com/8744/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax USSR Драма HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8894/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax USSR Драма HD
-http://live.biluspeh.com/8894/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax USSR Детектив HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8656/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="1", MiniMax USSR Детектив HD
-http://live.biluspeh.com/8656/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax USSR Сказки HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8616/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax USSR Сказки HD
-http://live.biluspeh.com/8616/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax USSR 1941-1945 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%201941-1945%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8614/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax USSR 1941-1945 HD
-http://live.biluspeh.com/8614/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax USSR Приключения HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8615/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax USSR Приключения HD
-http://live.biluspeh.com/8615/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Приключения HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8779/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Приключения HD
-http://live.biluspeh.com/8779/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="MiniMax Мифология HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8625/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", MiniMax Мифология HD
-http://live.biluspeh.com/8625/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Бумажный дом HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_bum_dom.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9052/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Бумажный дом HD
-http://live.biluspeh.com/9052/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Время HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_time.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9054/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Время HD
-http://live.biluspeh.com/9054/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Герой HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_geroy.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9055/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Герой HD
-http://live.biluspeh.com/9055/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Доктор HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_doctor.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9058/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Доктор HD
-http://live.biluspeh.com/9058/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Интерны HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_interny.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9061/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Интерны HD
-http://live.biluspeh.com/9061/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Комедия HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_comedy.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9063/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Комедия HD
-http://live.biluspeh.com/9063/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Космос HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_kosmoc.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9064/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Космос HD
-http://live.biluspeh.com/9064/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Новинки HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_new_movies.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9077/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Новинки HD
-http://live.biluspeh.com/9077/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Сваты HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_svaty.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9080/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Сваты HD
-http://live.biluspeh.com/9080/video.m3u8?token=psMiZ73hXdcBtj1b
-#EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9084/video-${start}-${duration}.m3u8?token=psMiZ73hXdcBtj1b" timeshift="3", Kernel TV Счастливого нового года HD
-http://live.biluspeh.com/9084/video.m3u8?token=psMiZ73hXdcBtj1b
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://live.biluspeh.com/8949/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8952/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan FHD
+http://live.biluspeh.com/8952/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan MiniSeries FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-miniseries.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8961/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan MiniSeries FHD
+http://live.biluspeh.com/8961/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan TOP FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-top.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8959/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan TOP FHD
+http://live.biluspeh.com/8959/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Marvel FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-marvel.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8951/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Marvel FHD
+http://live.biluspeh.com/8951/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Ужасы FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-uzhasy.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8960/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Ужасы FHD
+http://live.biluspeh.com/8960/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Триллер FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-thriller.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8954/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Триллер FHD
+http://live.biluspeh.com/8954/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Катастрофы FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/CineMan%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%8B.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8957/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Катастрофы FHD
+http://live.biluspeh.com/8957/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Premium FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-premium.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8967/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Premium FHD
+http://live.biluspeh.com/8967/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Мелодрама FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-melodrama.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8955/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Мелодрама FHD
+http://live.biluspeh.com/8955/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Комедийные сериалы FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-komseri.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8958/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Комедийные сериалы FHD
+http://live.biluspeh.com/8958/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Ментовские войны FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-musw.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8802/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Ментовские войны FHD
+http://live.biluspeh.com/8802/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Симпсоны" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/CineMan%20%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D1%8B.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8833/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Симпсоны
+http://live.biluspeh.com/8833/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Криминальные Сериалы FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-gluhar.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8772/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Криминальные Сериалы FHD
+http://live.biluspeh.com/8772/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Военные Сериалы" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-vovserials.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8574/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Военные Сериалы
+http://live.biluspeh.com/8574/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Расследование авиакатастроф FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-aircrash.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8826/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Расследование авиакатастроф FHD
+http://live.biluspeh.com/8826/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan РуКино FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-rukino.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8871/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan РуКино FHD
+http://live.biluspeh.com/8871/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan СССР HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/CineMan%20%D0%A1%D0%A1%D0%A1%D0%A0%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/9121/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan СССР HD
+http://live.biluspeh.com/9121/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan ПёС + ЛИХАЧ FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-pes.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8824/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan ПёС + ЛИХАЧ FHD
+http://live.biluspeh.com/8824/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Лесник FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-lesnik.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8767/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Лесник FHD
+http://live.biluspeh.com/8767/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Фитнес FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-fitnes.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8771/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Фитнес FHD
+http://live.biluspeh.com/8771/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan VHS FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-vhs.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8807/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan VHS FHD
+http://live.biluspeh.com/8807/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Emergency Room FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/CineMan%20%D0%A1%D0%BA%D0%BE%D1%80%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8821/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Emergency Room FHD
+http://live.biluspeh.com/8821/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="CineMan Сваты FHD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-svaty.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8825/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", CineMan Сваты FHD
+http://live.biluspeh.com/8825/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Newfilm 1" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%201%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8741/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Newfilm 1
+http://live.biluspeh.com/8741/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Newfilm 2" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%202%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8742/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Newfilm 2
+http://live.biluspeh.com/8742/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Newfilm 3" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%203%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8743/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Newfilm 3
+http://live.biluspeh.com/8743/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax NewFilm RU HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%20RU%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8706/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax NewFilm RU HD
+http://live.biluspeh.com/8706/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Семейный 1 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%201%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8442/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Семейный 1 HD
+http://live.biluspeh.com/8442/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Семейный 2 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%202%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8449/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Семейный 2 HD
+http://live.biluspeh.com/8449/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Боевик" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8745/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Боевик
+http://live.biluspeh.com/8745/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Ужасы" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8725/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Ужасы
+http://live.biluspeh.com/8725/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Love HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Love%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8328/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Love HD
+http://live.biluspeh.com/8328/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Комедия" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8708/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Комедия
+http://live.biluspeh.com/8708/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Фантастика HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8631/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Фантастика HD
+http://live.biluspeh.com/8631/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Триллер HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A2%D1%80%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8778/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Триллер HD
+http://live.biluspeh.com/8778/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Ужастик HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8325/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Ужастик HD
+http://live.biluspeh.com/8325/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Фобия HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A4%D0%BE%D0%B1%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8994/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Фобия HD
+http://live.biluspeh.com/8994/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Драма HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8634/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Драма HD
+http://live.biluspeh.com/8634/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Катастрофа" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8746/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Катастрофа
+http://live.biluspeh.com/8746/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Вестерн HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BD%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8619/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Вестерн HD
+http://live.biluspeh.com/8619/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Грайндхаус HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%93%D1%80%D0%B0%D0%B9%D0%BD%D0%B4%D1%85%D0%B0%D1%83%D1%81%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8621/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Грайндхаус HD
+http://live.biluspeh.com/8621/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Криминал HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8624/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Криминал HD
+http://live.biluspeh.com/8624/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Супергерои" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8710/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Супергерои
+http://live.biluspeh.com/8710/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Синематограф HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8627/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Синематограф HD
+http://live.biluspeh.com/8627/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Нуар HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9D%D1%83%D0%B0%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8733/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Нуар HD
+http://live.biluspeh.com/8733/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Затмение HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%97%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8685/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Затмение HD
+http://live.biluspeh.com/8685/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Погружение HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8799/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Погружение HD
+http://live.biluspeh.com/8799/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Киберпанк HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D0%BA%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8545/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Киберпанк HD
+http://live.biluspeh.com/8545/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Кинофестиваль HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8658/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Кинофестиваль HD
+http://live.biluspeh.com/8658/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Translation HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Translation%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8633/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Translation HD
+http://live.biluspeh.com/8633/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Стивен Кинг HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8629/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Стивен Кинг HD
+http://live.biluspeh.com/8629/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax UFO HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20UFO%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8410/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax UFO HD
+http://live.biluspeh.com/8410/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Скорость HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8916/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Скорость HD
+http://live.biluspeh.com/8916/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Спорт HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%BF%D0%BE%D1%80%D1%82%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8652/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Спорт HD
+http://live.biluspeh.com/8652/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Кунг-Фу HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%83%D0%BD%D0%B3-%D0%A4%D1%83%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8559/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Кунг-Фу HD
+http://live.biluspeh.com/8559/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Роскино" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A0%D0%BE%D1%81%D0%BA%D0%B8%D0%BD%D0%BE%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8709/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Роскино
+http://live.biluspeh.com/8709/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Квартирник HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%BD%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8622/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Квартирник HD
+http://live.biluspeh.com/8622/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Крутые 90-е HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%80%D1%83%D1%82%D1%8B%D0%B5%2090-%D0%B5%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8547/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Крутые 90-е HD
+http://live.biluspeh.com/8547/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax OldSchool HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20OldSchool%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8644/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax OldSchool HD
+http://live.biluspeh.com/8644/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Celebrity HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Celebrity%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8991/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Celebrity HD
+http://live.biluspeh.com/8991/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Ситком HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8628/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Ситком HD
+http://live.biluspeh.com/8628/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Ситком 2.0 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%202.0%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8623/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Ситком 2.0 HD
+http://live.biluspeh.com/8623/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Агата Кристи HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%90%D0%B3%D0%B0%D1%82%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8618/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Агата Кристи HD
+http://live.biluspeh.com/8618/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax История HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8933/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax История HD
+http://live.biluspeh.com/8933/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Воронины HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8620/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Воронины HD
+http://live.biluspeh.com/8620/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Сваты HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8893/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Сваты HD
+http://live.biluspeh.com/8893/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Полицейский с Рублёвки HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%20%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2%D0%BA%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8626/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Полицейский с Рублёвки HD
+http://live.biluspeh.com/8626/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax 007 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20007%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8327/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax 007 HD
+http://live.biluspeh.com/8327/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Classic HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8632/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Classic HD
+http://live.biluspeh.com/8632/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Ужасы Classic HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8630/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Ужасы Classic HD
+http://live.biluspeh.com/8630/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Комедия Classic HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8789/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Комедия Classic HD
+http://live.biluspeh.com/8789/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Боевик Classic HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20Classic%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8411/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax Боевик Classic HD
+http://live.biluspeh.com/8411/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax USSR Комедия HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8744/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax USSR Комедия HD
+http://live.biluspeh.com/8744/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax USSR Драма HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8894/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax USSR Драма HD
+http://live.biluspeh.com/8894/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax USSR Детектив HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20HD.png" catchup="default" catchup-days="1" catchup-source="http://live.biluspeh.com/8656/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="1", MiniMax USSR Детектив HD
+http://live.biluspeh.com/8656/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax USSR Сказки HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8616/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax USSR Сказки HD
+http://live.biluspeh.com/8616/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax USSR 1941-1945 HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%201941-1945%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8614/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax USSR 1941-1945 HD
+http://live.biluspeh.com/8614/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax USSR Приключения HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8615/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax USSR Приключения HD
+http://live.biluspeh.com/8615/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Приключения HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8779/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Приключения HD
+http://live.biluspeh.com/8779/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="MiniMax Мифология HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8625/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", MiniMax Мифология HD
+http://live.biluspeh.com/8625/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Бумажный дом HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_bum_dom.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9052/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Бумажный дом HD
+http://live.biluspeh.com/9052/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Время HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_time.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9054/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Время HD
+http://live.biluspeh.com/9054/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Герой HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_geroy.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9055/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Герой HD
+http://live.biluspeh.com/9055/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Доктор HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_doctor.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9058/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Доктор HD
+http://live.biluspeh.com/9058/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Интерны HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_interny.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9061/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Интерны HD
+http://live.biluspeh.com/9061/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Комедия HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_comedy.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9063/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Комедия HD
+http://live.biluspeh.com/9063/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Космос HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_kosmoc.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9064/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Космос HD
+http://live.biluspeh.com/9064/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Новинки HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_new_movies.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9077/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Новинки HD
+http://live.biluspeh.com/9077/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Сваты HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_svaty.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9080/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Сваты HD
+http://live.biluspeh.com/9080/video.m3u8?token=NdeS268VsvrCj7oY
+#EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://icon.biluspeh.com/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9084/video-${start}-${duration}.m3u8?token=NdeS268VsvrCj7oY" timeshift="3", Kernel TV Счастливого нового года HD
+http://live.biluspeh.com/9084/video.m3u8?token=NdeS268VsvrCj7oY
