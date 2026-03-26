@@ -132,6 +132,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺" tvg-id="tnt-pl7",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Общие 🇷🇺" tvg-id="muztv-pl4",МУЗ-ТВ (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Общие 🇷🇺" tvg-id="muztv-pl7",МУЗ-ТВ (+7)
