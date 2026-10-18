@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.uspeh.my,https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"﻿
+#EXTM3U url-tvg="https://epg.uspeh.my,http://taptv.space/epg.xml.gz"﻿
 
 #EXTINF:-1 group-title="Улан-Удэ" tvg-id="pervy-pl5",Первый (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
